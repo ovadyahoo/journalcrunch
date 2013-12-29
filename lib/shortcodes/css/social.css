@@ -1,0 +1,17 @@
+/* SITE5 WORDPRESS THEME SOCIAL */
+
+/* === Twitter === */
+#twitter_update_list {margin-top:20px !important;margin-bottom:20px  !important;}
+#twitter_update_list li {background:url('../images/icons/small/tweet.png') no-repeat left top ;padding-left:10px;padding-bottom:10px;list-style:none !important;}
+#twitter_update_list li span {padding-bottom:10px;padding-left:10px;}
+#twitter_update_list li a {margin-left:5px;}
+.twitter-share-button {float:left;height:40px;}
+.facebook-share-button {margin-top:-16px;}
+
+/* === Flickr === */
+.flickrstream img{border: 1px solid #ddd; text-align: center; background-color:#fafafa; padding:2px; margin:3px; width:40px; height:40px;list-style:none;}
+.flickrstream img:hover{border: 1px solid #ccc;}
+#sidebar .flickrstream a{background:none}
+#sidebar .textwidget h4 a, #sidebar .textwidget a{background:none; list-style:none;padding-left:0px}
+
+.share-this {width:100%; margin-top:20px !important;margin-bottom:20px  !important;}

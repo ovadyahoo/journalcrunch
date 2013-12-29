@@ -1,0 +1,13 @@
+/* SITE5 WORDPRESS THEME SLIDER */
+.site5_post_slider_wide {width:100%;margin:0 auto;}
+.site5_post_slider_wide img{border:2px solid #ddd;  padding:3px; -moz-border-radius: 3px; -khtml-border-radius: 3px;
+-webkit-border-radius: 3px; border-radius: 3px;height:300px; }
+#swpsnav { z-index: 50; margin-top:5px;margin-bottom:30px;position:relative }
+#swpsnav a { margin: 10px 2px; padding: 3px 5px; border: 1px solid #ccc; background: #ccc; text-decoration: none;-moz-border-radius: 3px; -khtml-border-radius: 3px;
+-webkit-border-radius: 3px; border-radius: 3px; }
+#swpsnav a.activeSlide { background: #666;color:fff; }
+#swpsnav a:focus { outline: none; }
+
+#customquery {clear:both;display:block;border:0px solid #efefef; -moz-border-radius:5px; -webkit-border-radius:5px;border-radius:5px; padding:10px;min-height:200px;overflow:hidden;}
+#customquery p {padding:10px}
+#customquery #quote_wrap {min-height:150px; -moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4); -box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);}
